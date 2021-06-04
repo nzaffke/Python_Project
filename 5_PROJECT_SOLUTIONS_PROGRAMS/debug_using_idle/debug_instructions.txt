@@ -1,0 +1,12 @@
+
+open the python program in IDLE
+resize it
+under run menu, open the python shell
+resize it , by putting next to source code
+under the python shell menu debug, open the debugger, rsize it andplace it next to python shell.
+in the debugger, chack all 4 check boxes: stack, source,locals,globals
+set a breakpoint on on line 17(any executable instructions)
+- on line number on source code, right click and select set breakmpint option.
+- then on the source code, run menu, select run module option to run the program,
+- using debugger step, over, out go buttons, navigate thru the programm
+and debug.
